@@ -1,0 +1,80 @@
+/*HTML  CSS  JS  Result
+EDIT ON*/
+
+.row{
+  text-align: center;
+}
+
+#pageHead{
+  opacity: .75;
+  background-color: #ccc;
+  margin-bottom: 30px;
+}
+
+#reset-button{
+  margin-left: 40px;
+  margin-bottom: 60px;
+  background-color: red;
+}
+
+#countdown{
+  margin-left: 30px;
+  font-size: 30px;
+}
+
+#quizBackground{
+  opacity: .75;
+  background-color: #ccc;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#quiz{
+  margin-top: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+  text-align: left;
+  font-size: 15px;
+}
+
+#results{
+
+}
+
+ body{
+   background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4e/Pleiades_large.jpg);
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #333;
+}
+
+#background{
+
+}
+.question{
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.answers {
+  margin-bottom: 40px;
+}
+.answers label{
+  display: block;
+}
+#submit{
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #279;
+    color: #fff;
+    border: 0px;
+    border-radius: 3px;
+    padding: 20px;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+#submit:hover{
+    background-color: #38a;
+}
